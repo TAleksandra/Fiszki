@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/tatara/fiszki/FiszkaModel.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/tatara/fiszki/FiszkaModel.kt b/app/src/main/java/com/tatara/fiszki/FiszkaModel.kt
+--- a/app/src/main/java/com/tatara/fiszki/FiszkaModel.kt	
++++ b/app/src/main/java/com/tatara/fiszki/FiszkaModel.kt	(date 1706384677791)
+@@ -10,5 +10,5 @@
+ val fiszki = listOf(
+     FiszkaModel(0, "hello", "witaj", 0.0f),
+     FiszkaModel(1, "goodbye", "do widzenia", 0.0f),
+-    FiszkaModel(2, "thank you", "dziękuję", 0.0f)
++    FiszkaModel(2, "thank you", "dziękuję", 0.0f),
+ )
+\ No newline at end of file
